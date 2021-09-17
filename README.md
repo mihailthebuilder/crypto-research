@@ -22,7 +22,7 @@ However, there's a ton of misinformation about cryptos these days so I wanted to
 
 ### Data sourcing
 
-I fetched daily prices from 16 Aug 2010 to 15 Sep 2021 for Bitcoin and the following three ETF index trackers:
+I fetched daily close prices from 16 Aug 2010 to 15 Sep 2021 for Bitcoin and the following three ETF index trackers:
 
 - Vanguard Total World Stock ETF (VT) - covers all equity markets globally (developed & emerging)
 - Vanguard Total Bond Market ETF (BND) - provides exposure to the investment-grade, US dollar-denominated bond market
