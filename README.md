@@ -40,7 +40,7 @@ I used pandas' `corr` method to get the correlation matrix and produced the char
 
 ![correlation matrix](btc-corr.png)
 
-The results show a somewhat higher correlation between Bitcoin and equities compared to the ARK paper. But it's still sufficiently small to allow for potential diversification benefits. The Bitcoin/bonds correlation paints a similar story.
+The results show a somewhat higher correlation between Bitcoin and equities compared to the ARK paper (0.44 vs 0.26). But it's still sufficiently small to allow for potential diversification benefits. The Bitcoin/bonds correlation paints a similar story (0.11 vs -0.14).
 
 ### Replicating the research
 
