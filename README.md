@@ -6,7 +6,8 @@ A collection of research pieces I've done on crypto investing.
   - [Can Bitcoin add value to a portfolio of diversified traditional assets?](#can-bitcoin-add-value-to-a-portfolio-of-diversified-traditional-assets)
     - [Synopsis](#synopsis)
     - [Data sourcing](#data-sourcing)
-    - [Bitcoin's correlation with traditional assets](#bitcoins-correlation-with-traditional-assets)
+    - [Asset correlations](#asset-correlations)
+    - [Correlation changes over time](#correlation-changes-over-time)
     - [Replicating the research](#replicating-the-research)
   - [Other topics to cover](#other-topics-to-cover)
 
@@ -34,13 +35,17 @@ VT is, in my view, the best proxy for a globally-diversified portfolio of equiti
 
 I placed all the historical price data in a single pandas DataFrame, then calculated the rolling 12-month logarithmic returns.
 
-### Bitcoin's correlation with traditional assets
+### Asset correlations
 
-I used pandas' `corr` method to get the correlation matrix and produced the chart with seaborn.
+I used pandas' `corr` method to get the correlation matrix between the returns for Bitcoin and the Equities (VT) and Bonds (BND x 50% + IGOV x 50%) portfolios. I then created a heatmap with the matrix:
 
 ![correlation matrix](btc-corr.png)
 
 The results show a somewhat higher correlation between Bitcoin and equities compared to the ARK paper (0.44 vs 0.26). But it's still sufficiently small to allow for potential diversification benefits. The Bitcoin/bonds correlation paints a similar story (0.11 vs -0.14).
+
+### Correlation changes over time
+
+Bitcoin has shot up in popularity since it started trading in 2010. Because of that, I was worried that the above correlation figures might be hiding a trend of significant rises over the last few years, when the cryptocurrency has effectively become mainstream.
 
 ### Replicating the research
 
