@@ -48,5 +48,6 @@ See the [btc.ipynb](./btc.ipynb) Jupyter notebook.
 
 ## Other topics to cover
 
-- [ ] how correlation changes over time
+- [ ] how BTC correlation changes over time
+- [ ] BTC + funds
 - [ ] index development
