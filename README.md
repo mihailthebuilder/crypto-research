@@ -49,6 +49,8 @@ Bitcoin has shot up in popularity since it started trading in 2010. Because of t
 
 ![correlation matrix timeseries](btc-corr-ts.png)
 
+The chart above showcases the results. We can see that there's no clear trend.
+
 ### Replicating the research
 
 See the [btc.ipynb](./btc.ipynb) Jupyter notebook.
