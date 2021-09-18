@@ -47,6 +47,8 @@ The results show a somewhat higher correlation between Bitcoin and equities comp
 
 Bitcoin has shot up in popularity since it started trading in 2010. Because of that, I was worried that the above correlation figures might be hiding a trend of significant rises over the last few years, when the cryptocurrency has effectively become mainstream.
 
+![correlation matrix timeseries](btc-corr-ts.png)
+
 ### Replicating the research
 
 See the [btc.ipynb](./btc.ipynb) Jupyter notebook.
