@@ -27,12 +27,11 @@ However, there's a ton of misinformation about cryptos these days so I wanted to
 I fetched daily close prices from 16 Aug 2010 to 15 Sep 2021 for Bitcoin and the following three ETF index trackers:
 
 - Vanguard Total World Stock ETF (VT) - covers all equity markets globally (developed & emerging)
-- Vanguard Total Bond Market ETF (BND) - provides exposure to the investment-grade, US dollar-denominated bond market
-- iShares International Treasury Bond ETF (IGOV) - offers exposure to non-US dollar denominated investment-grade bonds
+- iShares Global Govt Bond UCITS ETF (IGLO) - index tracker for government bonds issued by the G7 countries (Canada, France, Germany, Italy, Japan, UK and US)
 
 I picked ETFs instead of indices (e.g. S&P 500) because the results are more practical. No one cares about hypothetical returns for an index; they want to know what portfolio construction choices they should make based on securities they can actually purchase.
 
-VT is, in my view, the best proxy for a globally-diversified portfolio of equities. Combining BND and IGOV (weighed equally) represents the best compromise for an equivalent in the bonds market. Vanguard's BNDX is actually a more suitable complement to BND, but its inception date is 4 Jun 2013, which would've meant losing two years of data.
+VT is the best option for a globally-diversified portfolio of equities. IGLO is the best equivalent I could find for the bond market that didn't involve selecting multiple ETFs.
 
 I placed all the historical price data in a single pandas DataFrame, then calculated the rolling 12-month logarithmic returns.
 
