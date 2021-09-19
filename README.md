@@ -8,6 +8,7 @@ A collection of research pieces I've done on crypto investing.
     - [Data sourcing](#data-sourcing)
     - [Asset correlations](#asset-correlations)
     - [Correlation changes over time](#correlation-changes-over-time)
+    - [Returns backtesting](#returns-backtesting)
     - [Replicating the research](#replicating-the-research)
   - [Other topics to cover](#other-topics-to-cover)
 
@@ -37,7 +38,7 @@ I placed all the historical price data in a single pandas DataFrame, then calcul
 
 ### Asset correlations
 
-I used pandas' `corr` method to get the correlation matrix between the returns for Bitcoin and the Equities (VT) and Bonds (BND x 50% + IGOV x 50%) portfolios. I then created a heatmap with the matrix:
+I used pandas' [corr](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html) method to get the correlation matrix between the returns for Bitcoin, equities and bonds. I then created a [seaborn](https://seaborn.pydata.org/) heatmap with the matrix:
 
 ![correlation matrix](btc-corr.png)
 
@@ -47,9 +48,15 @@ The results show a somewhat higher correlation between Bitcoin and equities comp
 
 Bitcoin has shot up in popularity since it started trading in 2010. Because of that, I was worried that the above correlation figures might be hiding a trend of significant rises over the last few years, when the cryptocurrency has effectively become mainstream.
 
+For this analysis, I split the log returns DataFrame by year, then calculated the correlation between each asset class combination. I then generated a line plot using pandas' [plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html) method that leverages [matplotlib](https://matplotlib.org/stable/index.html):
+
 ![correlation matrix timeseries](btc-corr-ts.png)
 
-The chart above showcases the results, and there doesn't seem to be a clear trend.
+As per the chart, there doesn't seem to be a clear trend in the correlation coefficients so my worries ended up being unfounded.
+
+### Returns backtesting
+
+The two correlation studies we've done so far confirm that Bitcoin can offer some diversification benefits. Now it's time to do the backtests.
 
 ### Replicating the research
 
@@ -57,6 +64,5 @@ See the [btc.ipynb](./btc.ipynb) Jupyter notebook.
 
 ## Other topics to cover
 
-- [x] how BTC correlation changes over time
 - [ ] BTC + funds
 - [ ] index development
