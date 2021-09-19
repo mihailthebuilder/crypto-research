@@ -519,7 +519,7 @@
 <td  data-real-value="1624579200" class="first left bold noWrap">Jun 25, 2021</td>
 <td data-real-value="103.98" class="greenFont">103.98</td>
 <td data-real-value="103.88">103.88</td>
-<td data-real-value="104.03">104.03</td>
+ <td data-real-value="104.03">104.03</td>
 <td data-real-value="103.77">103.77</td>
 <td data-real-value="1420731">1.42M</td> <td class="bold greenFont">0.40%</td>
 </tr>
@@ -634,7 +634,7 @@
 <td data-real-value="103.94">103.94</td>
 <td data-real-value="103.61">103.61</td>
 <td data-real-value="2347814">2.35M</td> <td class="bold greenFont">0.07%</td>
- </tr>
+</tr>
 <tr>
 <td  data-real-value="1622764800" class="first left bold noWrap">Jun 04, 2021</td>
 <td data-real-value="103.86" class="greenFont">103.86</td>
@@ -875,7 +875,7 @@
 <td data-real-value="100.95">100.95</td>
 <td data-real-value="1261503">1.26M</td> <td class="bold greenFont">1.16%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1619049600" class="first left bold noWrap">Apr 22, 2021</td>
 <td data-real-value="100.61" class="redFont">100.61</td>
 <td data-real-value="101.25">101.25</td>
@@ -1091,7 +1091,7 @@
 <td data-real-value="97.92">97.92</td>
 <td data-real-value="2499703">2.50M</td> <td class="bold redFont">-0.08%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1615766400" class="first left bold noWrap">Mar 15, 2021</td>
 <td data-real-value="98.24" class="greenFont">98.24</td>
 <td data-real-value="97.76">97.76</td>
@@ -1136,7 +1136,7 @@
 <td data-real-value="94.66" class="redFont">94.66</td>
 <td data-real-value="95.19">95.19</td>
 <td data-real-value="95.85">95.85</td>
- <td data-real-value="94.59">94.59</td>
+<td data-real-value="94.59">94.59</td>
 <td data-real-value="2303159">2.30M</td> <td class="bold redFont">-0.71%</td>
 </tr>
 <tr>
@@ -1164,7 +1164,7 @@
 <td data-real-value="2359213">2.36M</td> <td class="bold redFont">-1.06%</td>
 </tr>
 <tr>
-<td  data-real-value="1614643200" class="first left bold noWrap">Mar 02, 2021</td>
+ <td  data-real-value="1614643200" class="first left bold noWrap">Mar 02, 2021</td>
 <td data-real-value="96.46" class="redFont">96.46</td>
 <td data-real-value="97.03">97.03</td>
 <td data-real-value="97.08">97.08</td>
@@ -1281,7 +1281,7 @@
 <td data-real-value="97.27">97.27</td>
 <td data-real-value="97.77">97.77</td>
 <td data-real-value="97.20">97.20</td>
- <td data-real-value="847808">847.81K</td> <td class="bold greenFont">0.31%</td>
+<td data-real-value="847808">847.81K</td> <td class="bold greenFont">0.31%</td>
 </tr>
 <tr>
 <td  data-real-value="1612742400" class="first left bold noWrap">Feb 08, 2021</td>
@@ -1787,7 +1787,7 @@
 <td data-real-value="84.41">84.41</td>
 <td data-real-value="1452179">1.45M</td> <td class="bold greenFont">0.12%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1604534400" class="first left bold noWrap">Nov 05, 2020</td>
 <td data-real-value="84.77" class="greenFont">84.77</td>
 <td data-real-value="84.52">84.52</td>
@@ -1860,7 +1860,7 @@
 <td data-real-value="1766524">1.77M</td> <td class="bold redFont">-1.77%</td>
 </tr>
 <tr>
- <td  data-real-value="1603411200" class="first left bold noWrap">Oct 23, 2020</td>
+<td  data-real-value="1603411200" class="first left bold noWrap">Oct 23, 2020</td>
 <td data-real-value="83.45" class="greenFont">83.45</td>
 <td data-real-value="83.45">83.45</td>
 <td data-real-value="83.45">83.45</td>
@@ -2077,7 +2077,7 @@
 </tr>
 <tr>
 <td  data-real-value="1600732800" class="first left bold noWrap">Sep 22, 2020</td>
- <td data-real-value="79.94" class="greenFont">79.94</td>
+<td data-real-value="79.94" class="greenFont">79.94</td>
 <td data-real-value="79.68">79.68</td>
 <td data-real-value="79.99">79.99</td>
 <td data-real-value="79.02">79.02</td>
@@ -2177,7 +2177,7 @@
 <td data-real-value="82.77">82.77</td>
 <td data-real-value="83.09">83.09</td>
 <td data-real-value="80.48">80.48</td>
-<td data-real-value="1680753">1.68M</td> <td class="bold redFont">-0.38%</td>
+ <td data-real-value="1680753">1.68M</td> <td class="bold redFont">-0.38%</td>
 </tr>
 <tr>
 <td  data-real-value="1599091200" class="first left bold noWrap">Sep 03, 2020</td>
@@ -2222,7 +2222,7 @@
 <tr>
 <td  data-real-value="1598572800" class="first left bold noWrap">Aug 28, 2020</td>
 <td data-real-value="83.97" class="greenFont">83.97</td>
- <td data-real-value="83.72">83.72</td>
+<td data-real-value="83.72">83.72</td>
 <td data-real-value="83.99">83.99</td>
 <td data-real-value="83.49">83.49</td>
 <td data-real-value="670726">670.73K</td> <td class="bold greenFont">0.73%</td>
@@ -2295,7 +2295,7 @@
 <td  data-real-value="1597795200" class="first left bold noWrap">Aug 19, 2020</td>
 <td data-real-value="81.66" class="redFont">81.66</td>
 <td data-real-value="82.23">82.23</td>
- <td data-real-value="82.28">82.28</td>
+<td data-real-value="82.28">82.28</td>
 <td data-real-value="81.55">81.55</td>
 <td data-real-value="795102">795.10K</td> <td class="bold redFont">-0.50%</td>
 </tr>
@@ -2395,7 +2395,7 @@
 <td data-real-value="80.46">80.46</td>
 <td data-real-value="817017">817.02K</td> <td class="bold greenFont">0.67%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1596499200" class="first left bold noWrap">Aug 04, 2020</td>
 <td data-real-value="80.08" class="greenFont">80.08</td>
 <td data-real-value="79.50">79.50</td>
@@ -2585,7 +2585,7 @@
 <td data-real-value="77.41">77.41</td>
 <td data-real-value="77.44">77.44</td>
 <td data-real-value="75.95">75.95</td>
-<td data-real-value="1400547">1.40M</td>  <td class="bold redFont">-0.63%</td>
+<td data-real-value="1400547">1.40M</td> <td class="bold redFont">-0.63%</td>
 </tr>
 <tr>
 <td  data-real-value="1594166400" class="first left bold noWrap">Jul 08, 2020</td>
@@ -2613,7 +2613,7 @@
 </tr>
 <tr>
 <td  data-real-value="1593907200" class="first left bold noWrap">Jul 05, 2020</td>
-<td data-real-value="75.98" class="redFont">75.98</td>
+ <td data-real-value="75.98" class="redFont">75.98</td>
 <td data-real-value="75.98">75.98</td>
 <td data-real-value="75.98">75.98</td>
 <td data-real-value="75.98">75.98</td>
@@ -2658,7 +2658,7 @@
 <td data-real-value="74.32">74.32</td>
 <td data-real-value="73.21">73.21</td>
 <td data-real-value="1407064">1.41M</td> <td class="bold greenFont">1.20%</td>
- </tr>
+</tr>
 <tr>
 <td  data-real-value="1593129600" class="first left bold noWrap">Jun 26, 2020</td>
 <td data-real-value="73.44" class="redFont">73.44</td>
@@ -2790,7 +2790,7 @@
 <tr>
 <td  data-real-value="1591315200" class="first left bold noWrap">Jun 05, 2020</td>
 <td data-real-value="77.46" class="greenFont">77.46</td>
- <td data-real-value="77.21">77.21</td>
+<td data-real-value="77.21">77.21</td>
 <td data-real-value="77.97">77.97</td>
 <td data-real-value="77.21">77.21</td>
 <td data-real-value="3076888">3.08M</td> <td class="bold greenFont">2.41%</td>
@@ -3080,7 +3080,7 @@
 <td data-real-value="68.11" class="greenFont">68.11</td>
 <td data-real-value="67.92">67.92</td>
 <td data-real-value="68.25">68.25</td>
- <td data-real-value="67.28">67.28</td>
+<td data-real-value="67.28">67.28</td>
 <td data-real-value="2116753">2.12M</td> <td class="bold greenFont">2.64%</td>
 </tr>
 <tr>
@@ -3225,7 +3225,7 @@
 <td data-real-value="58.00">58.00</td>
 <td data-real-value="59.50">59.50</td>
 <td data-real-value="57.60">57.60</td>
- <td data-real-value="5688019">5.69M</td> <td class="bold greenFont">9.14%</td>
+<td data-real-value="5688019">5.69M</td> <td class="bold greenFont">9.14%</td>
 </tr>
 <tr>
 <td  data-real-value="1584921600" class="first left bold noWrap">Mar 23, 2020</td>
@@ -3297,7 +3297,7 @@
 <td data-real-value="64.69">64.69</td>
 <td data-real-value="65.20">65.20</td>
 <td data-real-value="60.60">60.60</td>
-<td data-real-value="4975067">4.98M</td>  <td class="bold greenFont">7.96%</td>
+<td data-real-value="4975067">4.98M</td> <td class="bold greenFont">7.96%</td>
 </tr>
 <tr>
 <td  data-real-value="1583971200" class="first left bold noWrap">Mar 12, 2020</td>
@@ -3309,7 +3309,7 @@
 </tr>
 <tr>
 <td  data-real-value="1583884800" class="first left bold noWrap">Mar 11, 2020</td>
-<td data-real-value="67.27" class="redFont">67.27</td>
+ <td data-real-value="67.27" class="redFont">67.27</td>
 <td data-real-value="68.82">68.82</td>
 <td data-real-value="69.11">69.11</td>
 <td data-real-value="66.58">66.58</td>
@@ -3443,7 +3443,7 @@
 <td data-real-value="82.31">82.31</td>
 <td data-real-value="838207">838.21K</td> <td class="bold redFont">-0.43%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1581897600" class="first left bold noWrap">Feb 17, 2020</td>
 <td data-real-value="82.93" class="redFont">82.93</td>
 <td data-real-value="82.93">82.93</td>
@@ -3454,7 +3454,7 @@
 <tr>
 <td  data-real-value="1581638400" class="first left bold noWrap">Feb 14, 2020</td>
 <td data-real-value="82.93" class="greenFont">82.93</td>
-<td data-real-value="82.99">82.99</td>
+ <td data-real-value="82.99">82.99</td>
 <td data-real-value="82.99">82.99</td>
 <td data-real-value="82.63">82.63</td>
 <td data-real-value="1184312">1.18M</td> <td class="bold greenFont">0.07%</td>
@@ -3516,7 +3516,7 @@
 <td data-real-value="1321118">1.32M</td> <td class="bold greenFont">0.91%</td>
 </tr>
 <tr>
- <td  data-real-value="1580774400" class="first left bold noWrap">Feb 04, 2020</td>
+<td  data-real-value="1580774400" class="first left bold noWrap">Feb 04, 2020</td>
 <td data-real-value="81.49" class="greenFont">81.49</td>
 <td data-real-value="81.31">81.31</td>
 <td data-real-value="81.65">81.65</td>
@@ -3599,7 +3599,7 @@
 <td  data-real-value="1579564800" class="first left bold noWrap">Jan 21, 2020</td>
 <td data-real-value="82.55" class="redFont">82.55</td>
 <td data-real-value="82.61">82.61</td>
-<td data-real-value="82.78">82.78</td>
+ <td data-real-value="82.78">82.78</td>
 <td data-real-value="82.49">82.49</td>
 <td data-real-value="1517640">1.52M</td> <td class="bold redFont">-0.64%</td>
 </tr>
@@ -3816,7 +3816,7 @@
 <td data-real-value="78.93" class="redFont">78.93</td>
 <td data-real-value="78.97">78.97</td>
 <td data-real-value="79.13">79.13</td>
-<td data-real-value="78.76">78.76</td>
+ <td data-real-value="78.76">78.76</td>
 <td data-real-value="1684526">1.68M</td> <td class="bold redFont">-0.09%</td>
 </tr>
 <tr>
@@ -4033,7 +4033,7 @@
 <td data-real-value="77.07">77.07</td>
 <td data-real-value="77.07">77.07</td>
 <td data-real-value="76.53">76.53</td>
-<td data-real-value="2494752">2.49M</td> <td class="bold redFont">-0.30%</td>
+ <td data-real-value="2494752">2.49M</td> <td class="bold redFont">-0.30%</td>
 </tr>
 <tr>
 <td  data-real-value="1572393600" class="first left bold noWrap">Oct 30, 2019</td>
@@ -4249,7 +4249,7 @@
 <td data-real-value="75.59">75.59</td>
 <td data-real-value="75.59">75.59</td>
 <td data-real-value="74.66">74.66</td>
-<td data-real-value="3594021">3.59M</td> <td class="bold redFont">-1.23%</td>
+<td data-real-value="3594021">3.59M</td>  <td class="bold redFont">-1.23%</td>
 </tr>
 <tr>
 <td  data-real-value="1569196800" class="first left bold noWrap">Sep 23, 2019</td>
@@ -4311,7 +4311,7 @@
 <td  data-real-value="1568246400" class="first left bold noWrap">Sep 12, 2019</td>
 <td data-real-value="76.02" class="greenFont">76.02</td>
 <td data-real-value="75.95">75.95</td>
- <td data-real-value="76.23">76.23</td>
+<td data-real-value="76.23">76.23</td>
 <td data-real-value="75.71">75.71</td>
 <td data-real-value="1226844">1.23M</td> <td class="bold greenFont">0.45%</td>
 </tr>
@@ -4528,7 +4528,7 @@
 <td data-real-value="71.81" class="redFont">71.81</td>
 <td data-real-value="72.76">72.76</td>
 <td data-real-value="72.77">72.77</td>
- <td data-real-value="71.31">71.31</td>
+<td data-real-value="71.31">71.31</td>
 <td data-real-value="3968809">3.97M</td> <td class="bold redFont">-2.79%</td>
 </tr>
 <tr>
@@ -4540,7 +4540,7 @@
 <td data-real-value="4096801">4.10M</td> <td class="bold redFont">-0.93%</td>
 </tr>
 <tr>
-<td  data-real-value="1564617600" class="first left bold noWrap">Aug 01, 2019</td>
+ <td  data-real-value="1564617600" class="first left bold noWrap">Aug 01, 2019</td>
 <td data-real-value="74.56" class="redFont">74.56</td>
 <td data-real-value="75.30">75.30</td>
 <td data-real-value="75.91">75.91</td>
@@ -4673,7 +4673,7 @@
 <td data-real-value="75.97">75.97</td>
 <td data-real-value="76.24">76.24</td>
 <td data-real-value="75.81">75.81</td>
- <td data-real-value="830698">830.70K</td> <td class="bold greenFont">0.49%</td>
+<td data-real-value="830698">830.70K</td> <td class="bold greenFont">0.49%</td>
 </tr>
 <tr>
 <td  data-real-value="1562630400" class="first left bold noWrap">Jul 09, 2019</td>
@@ -4889,7 +4889,7 @@
 <td data-real-value="71.13">71.13</td>
 <td data-real-value="71.43">71.43</td>
 <td data-real-value="70.92">70.92</td>
-<td data-real-value="5620589">5.62M</td>  <td class="bold redFont">-0.96%</td>
+<td data-real-value="5620589">5.62M</td> <td class="bold redFont">-0.96%</td>
 </tr>
 <tr>
 <td  data-real-value="1559174400" class="first left bold noWrap">May 30, 2019</td>
@@ -4901,7 +4901,7 @@
 </tr>
 <tr>
 <td  data-real-value="1559088000" class="first left bold noWrap">May 29, 2019</td>
-<td data-real-value="71.63" class="redFont">71.63</td>
+ <td data-real-value="71.63" class="redFont">71.63</td>
 <td data-real-value="71.69">71.69</td>
 <td data-real-value="71.75">71.75</td>
 <td data-real-value="71.22">71.22</td>
@@ -5107,7 +5107,7 @@
 <td data-real-value="75.11">75.11</td>
 <td data-real-value="828694">828.69K</td> <td class="bold greenFont">0.64%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1555891200" class="first left bold noWrap">Apr 22, 2019</td>
 <td data-real-value="75.16" class="redFont">75.16</td>
 <td data-real-value="75.01">75.01</td>
@@ -5118,7 +5118,7 @@
 <tr>
 <td  data-real-value="1555545600" class="first left bold noWrap">Apr 18, 2019</td>
 <td data-real-value="75.23" class="greenFont">75.23</td>
-<td data-real-value="75.23">75.23</td>
+ <td data-real-value="75.23">75.23</td>
 <td data-real-value="75.28">75.28</td>
 <td data-real-value="74.90">74.90</td>
 <td data-real-value="1334224">1.33M</td> <td class="bold greenFont">0.08%</td>
@@ -5480,7 +5480,7 @@
 <td data-real-value="71.33" class="greenFont">71.33</td>
 <td data-real-value="71.50">71.50</td>
 <td data-real-value="71.66">71.66</td>
-<td data-real-value="71.28">71.28</td>
+ <td data-real-value="71.28">71.28</td>
 <td data-real-value="1181767">1.18M</td> <td class="bold greenFont">0.04%</td>
 </tr>
 <tr>
@@ -5697,7 +5697,7 @@
 <td data-real-value="65.29">65.29</td>
 <td data-real-value="66.62">66.62</td>
 <td data-real-value="65.19">65.19</td>
-<td data-real-value="2777913">2.78M</td> <td class="bold greenFont">3.25%</td>
+ <td data-real-value="2777913">2.78M</td> <td class="bold greenFont">3.25%</td>
 </tr>
 <tr>
 <td  data-real-value="1546473600" class="first left bold noWrap">Jan 03, 2019</td>
@@ -5758,7 +5758,7 @@
 <tr>
 <td  data-real-value="1545350400" class="first left bold noWrap">Dec 21, 2018</td>
 <td data-real-value="64.01" class="redFont">64.01</td>
- <td data-real-value="65.08">65.08</td>
+<td data-real-value="65.08">65.08</td>
 <td data-real-value="65.72">65.72</td>
 <td data-real-value="63.84">63.84</td>
 <td data-real-value="8540903">8.54M</td> <td class="bold redFont">-1.73%</td>
@@ -5841,7 +5841,7 @@
 <td data-real-value="69.63">69.63</td>
 <td data-real-value="69.98">69.98</td>
 <td data-real-value="68.14">68.14</td>
-<td data-real-value="2638616">2.64M</td> <td class="bold redFont">-1.84%</td>
+<td data-real-value="2638616">2.64M</td>  <td class="bold redFont">-1.84%</td>
 </tr>
 <tr>
 <td  data-real-value="1544054400" class="first left bold noWrap">Dec 06, 2018</td>
@@ -5903,7 +5903,7 @@
 <td  data-real-value="1543190400" class="first left bold noWrap">Nov 26, 2018</td>
 <td data-real-value="69.80" class="greenFont">69.80</td>
 <td data-real-value="69.48">69.48</td>
- <td data-real-value="69.85">69.85</td>
+<td data-real-value="69.85">69.85</td>
 <td data-real-value="69.42">69.42</td>
 <td data-real-value="1846378">1.85M</td> <td class="bold greenFont">1.45%</td>
 </tr>
@@ -5986,7 +5986,7 @@
 <td data-real-value="71.70">71.70</td>
 <td data-real-value="71.06">71.06</td>
 <td data-real-value="8658720">8.66M</td> <td class="bold redFont">-0.79%</td>
-</tr>
+ </tr>
 <tr>
 <td  data-real-value="1541635200" class="first left bold noWrap">Nov 08, 2018</td>
 <td data-real-value="72.05" class="redFont">72.05</td>
@@ -6059,7 +6059,7 @@
 <td data-real-value="67.48">67.48</td>
 <td data-real-value="3846663">3.85M</td> <td class="bold redFont">-0.68%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1540512000" class="first left bold noWrap">Oct 26, 2018</td>
 <td data-real-value="68.74" class="redFont">68.74</td>
 <td data-real-value="68.59">68.59</td>
@@ -6193,7 +6193,7 @@
 <td data-real-value="75.42">75.42</td>
 <td data-real-value="75.42">75.42</td>
 <td data-real-value="74.49">74.49</td>
- <td data-real-value="7408853">7.41M</td> <td class="bold redFont">-1.10%</td>
+<td data-real-value="7408853">7.41M</td> <td class="bold redFont">-1.10%</td>
 </tr>
 <tr>
 <td  data-real-value="1538524800" class="first left bold noWrap">Oct 03, 2018</td>
@@ -6421,7 +6421,7 @@
 </tr>
 <tr>
 <td  data-real-value="1534982400" class="first left bold noWrap">Aug 23, 2018</td>
-<td data-real-value="75.15" class="redFont">75.15</td>
+ <td data-real-value="75.15" class="redFont">75.15</td>
 <td data-real-value="75.29">75.29</td>
 <td data-real-value="75.52">75.52</td>
 <td data-real-value="75.09">75.09</td>
@@ -6554,7 +6554,7 @@
 <td data-real-value="75.51">75.51</td>
 <td data-real-value="75.07">75.07</td>
 <td data-real-value="744069">744.07K</td> <td class="bold redFont">-0.36%</td>
- </tr>
+</tr>
 <tr>
 <td  data-real-value="1532995200" class="first left bold noWrap">Jul 31, 2018</td>
 <td data-real-value="75.48" class="greenFont">75.48</td>
@@ -6627,7 +6627,7 @@
 <td data-real-value="74.48">74.48</td>
 <td data-real-value="653441">653.44K</td> <td class="bold redFont">-0.37%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1531872000" class="first left bold noWrap">Jul 18, 2018</td>
 <td data-real-value="75.03" class="greenFont">75.03</td>
 <td data-real-value="74.95">74.95</td>
@@ -6710,7 +6710,7 @@
 <tr>
 <td  data-real-value="1530576000" class="first left bold noWrap">Jul 03, 2018</td>
 <td data-real-value="73.03" class="redFont">73.03</td>
-<td data-real-value="73.49">73.49</td>
+ <td data-real-value="73.49">73.49</td>
 <td data-real-value="73.51">73.51</td>
 <td data-real-value="72.98">72.98</td>
 <td data-real-value="552604">552.60K</td> <td class="bold redFont">-0.11%</td>
@@ -6855,7 +6855,7 @@
 <td  data-real-value="1528329600" class="first left bold noWrap">Jun 07, 2018</td>
 <td data-real-value="75.84" class="redFont">75.84</td>
 <td data-real-value="76.15">76.15</td>
-<td data-real-value="76.27">76.27</td>
+ <td data-real-value="76.27">76.27</td>
 <td data-real-value="75.60">75.60</td>
 <td data-real-value="607365">607.37K</td> <td class="bold redFont">-0.34%</td>
 </tr>
@@ -7072,7 +7072,7 @@
 <td data-real-value="73.94" class="redFont">73.94</td>
 <td data-real-value="74.49">74.49</td>
 <td data-real-value="74.63">74.63</td>
-<td data-real-value="73.94">73.94</td>
+ <td data-real-value="73.94">73.94</td>
 <td data-real-value="1020835">1.02M</td> <td class="bold redFont">-0.67%</td>
 </tr>
 <tr>
@@ -7289,7 +7289,7 @@
 <td data-real-value="75.18">75.18</td>
 <td data-real-value="75.80">75.80</td>
 <td data-real-value="75.09">75.09</td>
-<td data-real-value="1276732">1.28M</td> <td class="bold greenFont">0.08%</td>
+ <td data-real-value="1276732">1.28M</td> <td class="bold greenFont">0.08%</td>
 </tr>
 <tr>
 <td  data-real-value="1521504000" class="first left bold noWrap">Mar 20, 2018</td>
@@ -7350,7 +7350,7 @@
 <tr>
 <td  data-real-value="1520553600" class="first left bold noWrap">Mar 09, 2018</td>
 <td data-real-value="76.50" class="greenFont">76.50</td>
- <td data-real-value="75.82">75.82</td>
+<td data-real-value="75.82">75.82</td>
 <td data-real-value="76.51">76.51</td>
 <td data-real-value="75.75">75.75</td>
 <td data-real-value="1349644">1.35M</td> <td class="bold greenFont">1.26%</td>
@@ -7505,7 +7505,7 @@
 <td data-real-value="72.68">72.68</td>
 <td data-real-value="73.13">73.13</td>
 <td data-real-value="70.56">70.56</td>
-<td data-real-value="5756324">5.76M</td> <td class="bold greenFont">1.06%</td>
+<td data-real-value="5756324">5.76M</td>  <td class="bold greenFont">1.06%</td>
 </tr>
 <tr>
 <td  data-real-value="1518048000" class="first left bold noWrap">Feb 08, 2018</td>
@@ -7650,7 +7650,7 @@
 <td data-real-value="77.94">77.94</td>
 <td data-real-value="77.11">77.11</td>
 <td data-real-value="1433957">1.43M</td> <td class="bold redFont">-0.23%</td>
-</tr>
+ </tr>
 <tr>
 <td  data-real-value="1515715200" class="first left bold noWrap">Jan 12, 2018</td>
 <td data-real-value="77.44" class="greenFont">77.44</td>
@@ -7784,7 +7784,7 @@
 <td data-real-value="73.81" class="redFont">73.81</td>
 <td data-real-value="74.11">74.11</td>
 <td data-real-value="74.40">74.40</td>
- <td data-real-value="73.80">73.80</td>
+<td data-real-value="73.80">73.80</td>
 <td data-real-value="946978">946.98K</td> <td class="bold redFont">-1.01%</td>
 </tr>
 <tr>
@@ -7795,7 +7795,7 @@
 <td data-real-value="74.39">74.39</td>
 <td data-real-value="642516">642.52K</td> <td class="bold greenFont">0.93%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1513296000" class="first left bold noWrap">Dec 15, 2017</td>
 <td data-real-value="73.87" class="greenFont">73.87</td>
 <td data-real-value="73.72">73.72</td>
@@ -7856,7 +7856,7 @@
 <td data-real-value="72.83" class="redFont">72.83</td>
 <td data-real-value="72.80">72.80</td>
 <td data-real-value="72.95">72.95</td>
- <td data-real-value="72.73">72.73</td>
+<td data-real-value="72.73">72.73</td>
 <td data-real-value="484621">484.62K</td> <td class="bold redFont">-0.31%</td>
 </tr>
 <tr>
@@ -8073,7 +8073,7 @@
 <td data-real-value="71.79">71.79</td>
 <td data-real-value="72.09">72.09</td>
 <td data-real-value="71.64">71.64</td>
- <td data-real-value="612180">612.18K</td> <td class="bold greenFont">0.53%</td>
+<td data-real-value="612180">612.18K</td> <td class="bold greenFont">0.53%</td>
 </tr>
 <tr>
 <td  data-real-value="1508976000" class="first left bold noWrap">Oct 26, 2017</td>
@@ -8361,7 +8361,7 @@
 <td data-real-value="69.93">69.93</td>
 <td data-real-value="69.93">69.93</td>
 <td data-real-value="69.73">69.73</td>
-<td data-real-value="274940">274.94K</td>  <td class="bold greenFont">0.39%</td>
+<td data-real-value="274940">274.94K</td> <td class="bold greenFont">0.39%</td>
 </tr>
 <tr>
 <td  data-real-value="1504656000" class="first left bold noWrap">Sep 06, 2017</td>
@@ -8373,7 +8373,7 @@
 </tr>
 <tr>
 <td  data-real-value="1504569600" class="first left bold noWrap">Sep 05, 2017</td>
-<td data-real-value="69.35" class="redFont">69.35</td>
+ <td data-real-value="69.35" class="redFont">69.35</td>
 <td data-real-value="69.64">69.64</td>
 <td data-real-value="69.74">69.74</td>
 <td data-real-value="69.02">69.02</td>
@@ -8578,7 +8578,7 @@
 <td data-real-value="69.43">69.43</td>
 <td data-real-value="69.21">69.21</td>
 <td data-real-value="723991">723.99K</td> <td class="bold greenFont">0.01%</td>
- </tr>
+</tr>
 <tr>
 <td  data-real-value="1501200000" class="first left bold noWrap">Jul 28, 2017</td>
 <td data-real-value="69.31" class="redFont">69.31</td>
@@ -8651,7 +8651,7 @@
 <td data-real-value="68.56">68.56</td>
 <td data-real-value="471252">471.25K</td> <td class="bold greenFont">0.09%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1500249600" class="first left bold noWrap">Jul 17, 2017</td>
 <td data-real-value="68.73" class="redFont">68.73</td>
 <td data-real-value="68.77">68.77</td>
@@ -8785,7 +8785,7 @@
 <td data-real-value="67.96">67.96</td>
 <td data-real-value="68.10">68.10</td>
 <td data-real-value="67.87">67.87</td>
-<td data-real-value="410884">410.88K</td>  <td class="bold greenFont">0.04%</td>
+<td data-real-value="410884">410.88K</td> <td class="bold greenFont">0.04%</td>
 </tr>
 <tr>
 <td  data-real-value="1498003200" class="first left bold noWrap">Jun 21, 2017</td>
@@ -8799,7 +8799,7 @@
 <td  data-real-value="1497916800" class="first left bold noWrap">Jun 20, 2017</td>
 <td data-real-value="67.92" class="redFont">67.92</td>
 <td data-real-value="68.34">68.34</td>
-<td data-real-value="68.40">68.40</td>
+ <td data-real-value="68.40">68.40</td>
 <td data-real-value="67.89">67.89</td>
 <td data-real-value="605551">605.55K</td> <td class="bold redFont">-0.88%</td>
 </tr>
@@ -8930,7 +8930,7 @@
 <td data-real-value="67.68">67.68</td>
 <td data-real-value="67.57">67.57</td>
 <td data-real-value="755969">755.97K</td> <td class="bold redFont">-0.10%</td>
- </tr>
+</tr>
 <tr>
 <td  data-real-value="1495670400" class="first left bold noWrap">May 25, 2017</td>
 <td data-real-value="67.74" class="greenFont">67.74</td>
@@ -9016,7 +9016,7 @@
 <td data-real-value="66.91" class="redFont">66.91</td>
 <td data-real-value="66.85">66.85</td>
 <td data-real-value="66.91">66.91</td>
-<td data-real-value="66.58">66.58</td>
+ <td data-real-value="66.58">66.58</td>
 <td data-real-value="582562">582.56K</td> <td class="bold redFont">-0.15%</td>
 </tr>
 <tr>
@@ -9075,7 +9075,7 @@
 <td data-real-value="66.52">66.52</td>
 <td data-real-value="444415">444.42K</td> <td class="bold greenFont">0.39%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1493596800" class="first left bold noWrap">May 01, 2017</td>
 <td data-real-value="66.42" class="greenFont">66.42</td>
 <td data-real-value="66.47">66.47</td>
@@ -9148,7 +9148,7 @@
 <td data-real-value="492116">492.12K</td> <td class="bold redFont">-0.20%</td>
 </tr>
 <tr>
- <td  data-real-value="1492473600" class="first left bold noWrap">Apr 18, 2017</td>
+<td  data-real-value="1492473600" class="first left bold noWrap">Apr 18, 2017</td>
 <td data-real-value="64.70" class="redFont">64.70</td>
 <td data-real-value="64.69">64.69</td>
 <td data-real-value="64.81">64.81</td>
@@ -9449,7 +9449,7 @@
 <td data-real-value="65.06">65.06</td>
 <td data-real-value="65.19">65.19</td>
 <td data-real-value="64.80">64.80</td>
-<td data-real-value="861165">861.17K</td> <td class="bold redFont">0.00%</td>
+<td data-real-value="861165">861.17K</td>  <td class="bold redFont">0.00%</td>
 </tr>
 <tr>
 <td  data-real-value="1487721600" class="first left bold noWrap">Feb 22, 2017</td>
@@ -9581,7 +9581,7 @@
 </tr>
 <tr>
 <td  data-real-value="1485734400" class="first left bold noWrap">Jan 30, 2017</td>
- <td data-real-value="62.72" class="redFont">62.72</td>
+<td data-real-value="62.72" class="redFont">62.72</td>
 <td data-real-value="62.82">62.82</td>
 <td data-real-value="62.83">62.83</td>
 <td data-real-value="62.47">62.47</td>
@@ -9864,13 +9864,13 @@
 <td data-real-value="61.80" class="greenFont">61.80</td>
 <td data-real-value="60.99">60.99</td>
 <td data-real-value="61.87">61.87</td>
-<td data-real-value="60.99">60.99</td>
+ <td data-real-value="60.99">60.99</td>
 <td data-real-value="681571">681.57K</td> <td class="bold greenFont">1.38%</td>
 </tr>
 <tr>
 <td  data-real-value="1480982400" class="first left bold noWrap">Dec 06, 2016</td>
 <td data-real-value="60.96" class="greenFont">60.96</td>
- <td data-real-value="60.75">60.75</td>
+<td data-real-value="60.75">60.75</td>
 <td data-real-value="60.99">60.99</td>
 <td data-real-value="60.64">60.64</td>
 <td data-real-value="543322">543.32K</td> <td class="bold greenFont">0.49%</td>
@@ -10081,13 +10081,13 @@
 <td data-real-value="59.68">59.68</td>
 <td data-real-value="59.88">59.88</td>
 <td data-real-value="59.42">59.42</td>
-<td data-real-value="425964">425.96K</td> <td class="bold redFont">-0.30%</td>
+ <td data-real-value="425964">425.96K</td> <td class="bold redFont">-0.30%</td>
 </tr>
 <tr>
 <td  data-real-value="1477526400" class="first left bold noWrap">Oct 27, 2016</td>
 <td data-real-value="59.76" class="redFont">59.76</td>
 <td data-real-value="60.08">60.08</td>
- <td data-real-value="60.14">60.14</td>
+<td data-real-value="60.14">60.14</td>
 <td data-real-value="59.73">59.73</td>
 <td data-real-value="319393">319.39K</td> <td class="bold redFont">-0.18%</td>
 </tr>
@@ -10297,7 +10297,7 @@
 <td data-real-value="60.33">60.33</td>
 <td data-real-value="60.92">60.92</td>
 <td data-real-value="60.12">60.12</td>
-<td data-real-value="626275">626.28K</td> <td class="bold greenFont">1.50%</td>
+<td data-real-value="626275">626.28K</td>  <td class="bold greenFont">1.50%</td>
 </tr>
 <tr>
 <td  data-real-value="1474329600" class="first left bold noWrap">Sep 20, 2016</td>
@@ -10593,7 +10593,7 @@
 <td data-real-value="60.19">60.19</td>
 <td data-real-value="60.55">60.55</td>
 <td data-real-value="60.11">60.11</td>
- <td data-real-value="320134">320.13K</td> <td class="bold greenFont">0.58%</td>
+<td data-real-value="320134">320.13K</td> <td class="bold greenFont">0.58%</td>
 </tr>
 <tr>
 <td  data-real-value="1469664000" class="first left bold noWrap">Jul 28, 2016</td>
@@ -10659,7 +10659,7 @@
 <td data-real-value="59.52">59.52</td>
 <td data-real-value="370263">370.26K</td> <td class="bold redFont">-0.53%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1468800000" class="first left bold noWrap">Jul 18, 2016</td>
 <td data-real-value="59.95" class="greenFont">59.95</td>
 <td data-real-value="59.72">59.72</td>
@@ -10881,7 +10881,7 @@
 <td data-real-value="59.90">59.90</td>
 <td data-real-value="60.00">60.00</td>
 <td data-real-value="59.80">59.80</td>
-<td data-real-value="299986">299.99K</td>  <td class="bold greenFont">0.27%</td>
+<td data-real-value="299986">299.99K</td> <td class="bold greenFont">0.27%</td>
 </tr>
 <tr>
 <td  data-real-value="1465257600" class="first left bold noWrap">Jun 07, 2016</td>
@@ -10953,7 +10953,7 @@
 <td data-real-value="58.28">58.28</td>
 <td data-real-value="58.62">58.62</td>
 <td data-real-value="58.28">58.28</td>
-<td data-real-value="369185">369.19K</td>  <td class="bold greenFont">0.76%</td>
+<td data-real-value="369185">369.19K</td> <td class="bold greenFont">0.76%</td>
 </tr>
 <tr>
 <td  data-real-value="1464048000" class="first left bold noWrap">May 24, 2016</td>
@@ -11243,7 +11243,7 @@
 <td data-real-value="56.55">56.55</td>
 <td data-real-value="328977">328.98K</td> <td class="bold redFont">-1.32%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1459728000" class="first left bold noWrap">Apr 04, 2016</td>
 <td data-real-value="57.36" class="redFont">57.36</td>
 <td data-real-value="57.62">57.62</td>
@@ -11316,7 +11316,7 @@
 <td data-real-value="2995098">3.00M</td> <td class="bold redFont">-0.17%</td>
 </tr>
 <tr>
- <td  data-real-value="1458518400" class="first left bold noWrap">Mar 21, 2016</td>
+<td  data-real-value="1458518400" class="first left bold noWrap">Mar 21, 2016</td>
 <td data-real-value="57.34" class="redFont">57.34</td>
 <td data-real-value="57.30">57.30</td>
 <td data-real-value="57.39">57.39</td>
@@ -11677,7 +11677,7 @@
 </tr>
 <tr>
 <td  data-real-value="1452729600" class="first left bold noWrap">Jan 14, 2016</td>
- <td data-real-value="53.86" class="greenFont">53.86</td>
+<td data-real-value="53.86" class="greenFont">53.86</td>
 <td data-real-value="53.24">53.24</td>
 <td data-real-value="54.15">54.15</td>
 <td data-real-value="52.75">52.75</td>
@@ -11743,7 +11743,7 @@
 <td  data-real-value="1451865600" class="first left bold noWrap">Jan 04, 2016</td>
 <td data-real-value="56.65" class="redFont">56.65</td>
 <td data-real-value="56.59">56.59</td>
-<td data-real-value="56.65">56.65</td>
+ <td data-real-value="56.65">56.65</td>
 <td data-real-value="56.03">56.03</td>
 <td data-real-value="1618641">1.62M</td> <td class="bold redFont">-1.68%</td>
 </tr>
@@ -11888,7 +11888,7 @@
 <td data-real-value="58.95" class="redFont">58.95</td>
 <td data-real-value="59.31">59.31</td>
 <td data-real-value="59.39">59.39</td>
-<td data-real-value="58.73">58.73</td>
+ <td data-real-value="58.73">58.73</td>
 <td data-real-value="943731">943.73K</td> <td class="bold redFont">-0.87%</td>
 </tr>
 <tr>
@@ -11951,7 +11951,7 @@
 <td  data-real-value="1448323200" class="first left bold noWrap">Nov 24, 2015</td>
 <td data-real-value="59.45" class="greenFont">59.45</td>
 <td data-real-value="59.01">59.01</td>
- <td data-real-value="59.52">59.52</td>
+<td data-real-value="59.52">59.52</td>
 <td data-real-value="58.89">58.89</td>
 <td data-real-value="575834">575.83K</td> <td class="bold greenFont">0.24%</td>
 </tr>
@@ -12105,7 +12105,7 @@
 <td data-real-value="59.54">59.54</td>
 <td data-real-value="59.97">59.97</td>
 <td data-real-value="59.20">59.20</td>
-<td data-real-value="322292">322.29K</td> <td class="bold greenFont">0.84%</td>
+ <td data-real-value="322292">322.29K</td> <td class="bold greenFont">0.84%</td>
 </tr>
 <tr>
 <td  data-real-value="1445904000" class="first left bold noWrap">Oct 27, 2015</td>
@@ -12168,7 +12168,7 @@
 <td data-real-value="59.11" class="greenFont">59.11</td>
 <td data-real-value="59.07">59.07</td>
 <td data-real-value="59.13">59.13</td>
- <td data-real-value="58.82">58.82</td>
+<td data-real-value="58.82">58.82</td>
 <td data-real-value="323476">323.48K</td> <td class="bold greenFont">0.14%</td>
 </tr>
 <tr>
@@ -12321,7 +12321,7 @@
 <td data-real-value="57.38">57.38</td>
 <td data-real-value="57.62">57.62</td>
 <td data-real-value="57.00">57.00</td>
-<td data-real-value="677340">677.34K</td> <td class="bold greenFont">0.12%</td>
+<td data-real-value="677340">677.34K</td>  <td class="bold greenFont">0.12%</td>
 </tr>
 <tr>
 <td  data-real-value="1442534400" class="first left bold noWrap">Sep 18, 2015</td>
@@ -12385,7 +12385,7 @@
 <td data-real-value="57.90">57.90</td>
 <td data-real-value="58.00">58.00</td>
 <td data-real-value="56.72">56.72</td>
- <td data-real-value="440729">440.73K</td> <td class="bold redFont">-0.94%</td>
+<td data-real-value="440729">440.73K</td> <td class="bold redFont">-0.94%</td>
 </tr>
 <tr>
 <td  data-real-value="1441670400" class="first left bold noWrap">Sep 08, 2015</td>
@@ -12539,7 +12539,7 @@
 <td data-real-value="60.25">60.25</td>
 <td data-real-value="247167">247.17K</td> <td class="bold redFont">-0.24%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1439251200" class="first left bold noWrap">Aug 11, 2015</td>
 <td data-real-value="61.26" class="redFont">61.26</td>
 <td data-real-value="61.43">61.43</td>
@@ -12601,7 +12601,7 @@
 <td data-real-value="61.95">61.95</td>
 <td data-real-value="62.07">62.07</td>
 <td data-real-value="61.74">61.74</td>
-<td data-real-value="514391">514.39K</td>  <td class="bold greenFont">0.10%</td>
+<td data-real-value="514391">514.39K</td> <td class="bold greenFont">0.10%</td>
 </tr>
 <tr>
 <td  data-real-value="1438214400" class="first left bold noWrap">Jul 30, 2015</td>
@@ -12611,7 +12611,7 @@
 <td data-real-value="61.35">61.35</td>
 <td data-real-value="196847">196.85K</td> <td class="bold greenFont">0.11%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1438128000" class="first left bold noWrap">Jul 29, 2015</td>
 <td data-real-value="61.70" class="greenFont">61.70</td>
 <td data-real-value="61.37">61.37</td>
@@ -12891,7 +12891,7 @@
 <td data-real-value="62.79">62.79</td>
 <td data-real-value="684423">684.42K</td> <td class="bold greenFont">1.62%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1433808000" class="first left bold noWrap">Jun 09, 2015</td>
 <td data-real-value="62.28" class="redFont">62.28</td>
 <td data-real-value="62.36">62.36</td>
@@ -12964,7 +12964,7 @@
 <td data-real-value="327671">327.67K</td> <td class="bold redFont">-0.34%</td>
 </tr>
 <tr>
- <td  data-real-value="1432684800" class="first left bold noWrap">May 27, 2015</td>
+<td  data-real-value="1432684800" class="first left bold noWrap">May 27, 2015</td>
 <td data-real-value="64.04" class="greenFont">64.04</td>
 <td data-real-value="63.60">63.60</td>
 <td data-real-value="64.08">64.08</td>
@@ -13045,7 +13045,7 @@
 </tr>
 <tr>
 <td  data-real-value="1431388800" class="first left bold noWrap">May 12, 2015</td>
-<td data-real-value="63.52" class="redFont">63.52</td>
+ <td data-real-value="63.52" class="redFont">63.52</td>
 <td data-real-value="63.36">63.36</td>
 <td data-real-value="63.64">63.64</td>
 <td data-real-value="63.15">63.15</td>
@@ -13469,7 +13469,7 @@
 </tr>
 <tr>
 <td  data-real-value="1424822400" class="first left bold noWrap">Feb 25, 2015</td>
- <td data-real-value="62.79" class="redFont">62.79</td>
+<td data-real-value="62.79" class="redFont">62.79</td>
 <td data-real-value="62.80">62.80</td>
 <td data-real-value="62.90">62.90</td>
 <td data-real-value="62.66">62.66</td>
@@ -13478,7 +13478,7 @@
 <tr>
 <td  data-real-value="1424736000" class="first left bold noWrap">Feb 24, 2015</td>
 <td data-real-value="62.80" class="greenFont">62.80</td>
-<td data-real-value="62.60">62.60</td>
+ <td data-real-value="62.60">62.60</td>
 <td data-real-value="62.89">62.89</td>
 <td data-real-value="62.41">62.41</td>
 <td data-real-value="320653">320.65K</td> <td class="bold greenFont">0.35%</td>
@@ -13912,7 +13912,7 @@
 <td data-real-value="61.56" class="redFont">61.56</td>
 <td data-real-value="61.65">61.65</td>
 <td data-real-value="61.72">61.72</td>
-<td data-real-value="61.33">61.33</td>
+ <td data-real-value="61.33">61.33</td>
 <td data-real-value="628190">628.19K</td> <td class="bold redFont">-0.26%</td>
 </tr>
 <tr>
@@ -13984,7 +13984,7 @@
 <td data-real-value="61.21" class="redFont">61.21</td>
 <td data-real-value="61.00">61.00</td>
 <td data-real-value="61.24">61.24</td>
-<td data-real-value="60.90">60.90</td>
+ <td data-real-value="60.90">60.90</td>
 <td data-real-value="284235">284.24K</td> <td class="bold redFont">-0.13%</td>
 </tr>
 <tr>
@@ -14047,7 +14047,7 @@
 <td  data-real-value="1415577600" class="first left bold noWrap">Nov 10, 2014</td>
 <td data-real-value="60.91" class="greenFont">60.91</td>
 <td data-real-value="60.77">60.77</td>
- <td data-real-value="60.98">60.98</td>
+<td data-real-value="60.98">60.98</td>
 <td data-real-value="60.74">60.74</td>
 <td data-real-value="236512">236.51K</td> <td class="bold greenFont">0.30%</td>
 </tr>
@@ -14417,7 +14417,7 @@
 <td data-real-value="62.74">62.74</td>
 <td data-real-value="62.97">62.97</td>
 <td data-real-value="62.54">62.54</td>
-<td data-real-value="206998">207.00K</td> <td class="bold greenFont">0.22%</td>
+<td data-real-value="206998">207.00K</td>  <td class="bold greenFont">0.22%</td>
 </tr>
 <tr>
 <td  data-real-value="1409788800" class="first left bold noWrap">Sep 04, 2014</td>
@@ -14553,7 +14553,7 @@
 <td data-real-value="60.96">60.96</td>
 <td data-real-value="61.08">61.08</td>
 <td data-real-value="60.78">60.78</td>
- <td data-real-value="246919">246.92K</td> <td class="bold redFont">-0.11%</td>
+<td data-real-value="246919">246.92K</td> <td class="bold redFont">-0.11%</td>
 </tr>
 <tr>
 <td  data-real-value="1407715200" class="first left bold noWrap">Aug 11, 2014</td>
@@ -14706,7 +14706,7 @@
 <td data-real-value="62.64">62.64</td>
 <td data-real-value="62.37">62.37</td>
 <td data-real-value="266682">266.68K</td> <td class="bold greenFont">0.43%</td>
-</tr>
+ </tr>
 <tr>
 <td  data-real-value="1405382400" class="first left bold noWrap">Jul 15, 2014</td>
 <td data-real-value="62.24" class="redFont">62.24</td>
@@ -14905,7 +14905,7 @@
 <td data-real-value="62.38">62.38</td>
 <td data-real-value="62.38">62.38</td>
 <td data-real-value="62.14">62.14</td>
-<td data-real-value="165669">165.67K</td>  <td class="bold redFont">-0.08%</td>
+<td data-real-value="165669">165.67K</td> <td class="bold redFont">-0.08%</td>
 </tr>
 <tr>
 <td  data-real-value="1402272000" class="first left bold noWrap">Jun 09, 2014</td>
@@ -14920,7 +14920,7 @@
 <td data-real-value="62.35" class="greenFont">62.35</td>
 <td data-real-value="62.23">62.23</td>
 <td data-real-value="62.37">62.37</td>
-<td data-real-value="62.14">62.14</td>
+ <td data-real-value="62.14">62.14</td>
 <td data-real-value="159496">159.50K</td> <td class="bold greenFont">0.55%</td>
 </tr>
 <tr>
@@ -15194,7 +15194,7 @@
 <td data-real-value="59.77">59.77</td>
 <td data-real-value="59.36">59.36</td>
 <td data-real-value="169200">169.20K</td> <td class="bold greenFont">0.40%</td>
- </tr>
+</tr>
 <tr>
 <td  data-real-value="1397606400" class="first left bold noWrap">Apr 16, 2014</td>
 <td data-real-value="59.42" class="greenFont">59.42</td>
@@ -15209,7 +15209,7 @@
 <td data-real-value="58.81">58.81</td>
 <td data-real-value="58.95">58.95</td>
 <td data-real-value="58.04">58.04</td>
-<td data-real-value="237075">237.08K</td> <td class="bold redFont">-0.02%</td>
+ <td data-real-value="237075">237.08K</td> <td class="bold redFont">-0.02%</td>
 </tr>
 <tr>
 <td  data-real-value="1397433600" class="first left bold noWrap">Apr 14, 2014</td>
@@ -15267,7 +15267,7 @@
 <td data-real-value="59.48">59.48</td>
 <td data-real-value="312397">312.40K</td> <td class="bold redFont">-0.87%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1396483200" class="first left bold noWrap">Apr 03, 2014</td>
 <td data-real-value="60.07" class="redFont">60.07</td>
 <td data-real-value="60.15">60.15</td>
@@ -15425,7 +15425,7 @@
 <td data-real-value="60.33">60.33</td>
 <td data-real-value="60.43">60.43</td>
 <td data-real-value="59.82">59.82</td>
-<td data-real-value="285193">285.19K</td> <td class="bold redFont">-0.32%</td>
+<td data-real-value="285193">285.19K</td>  <td class="bold redFont">-0.32%</td>
 </tr>
 <tr>
 <td  data-real-value="1394064000" class="first left bold noWrap">Mar 06, 2014</td>
@@ -15497,7 +15497,7 @@
 <td data-real-value="59.18">59.18</td>
 <td data-real-value="59.83">59.83</td>
 <td data-real-value="59.18">59.18</td>
-<td data-real-value="291262">291.26K</td> <td class="bold greenFont">0.63%</td>
+<td data-real-value="291262">291.26K</td>  <td class="bold greenFont">0.63%</td>
 </tr>
 <tr>
 <td  data-real-value="1392940800" class="first left bold noWrap">Feb 21, 2014</td>
@@ -15634,7 +15634,7 @@
 <td data-real-value="57.18">57.18</td>
 <td data-real-value="56.65">56.65</td>
 <td data-real-value="403248">403.25K</td> <td class="bold redFont">-1.01%</td>
-</tr>
+ </tr>
 <tr>
 <td  data-real-value="1390867200" class="first left bold noWrap">Jan 28, 2014</td>
 <td data-real-value="57.36" class="greenFont">57.36</td>
@@ -15707,7 +15707,7 @@
 <td data-real-value="59.00">59.00</td>
 <td data-real-value="423445">423.45K</td> <td class="bold greenFont">0.31%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1389657600" class="first left bold noWrap">Jan 14, 2014</td>
 <td data-real-value="58.96" class="greenFont">58.96</td>
 <td data-real-value="58.71">58.71</td>
@@ -15852,7 +15852,7 @@
 <td data-real-value="442246">442.25K</td> <td class="bold greenFont">1.38%</td>
 </tr>
 <tr>
-<td  data-real-value="1387238400" class="first left bold noWrap">Dec 17, 2013</td>
+ <td  data-real-value="1387238400" class="first left bold noWrap">Dec 17, 2013</td>
 <td data-real-value="57.26" class="redFont">57.26</td>
 <td data-real-value="57.49">57.49</td>
 <td data-real-value="57.50">57.50</td>
@@ -15917,7 +15917,7 @@
 </tr>
 <tr>
 <td  data-real-value="1386201600" class="first left bold noWrap">Dec 05, 2013</td>
- <td data-real-value="57.37" class="redFont">57.37</td>
+<td data-real-value="57.37" class="redFont">57.37</td>
 <td data-real-value="57.48">57.48</td>
 <td data-real-value="57.60">57.60</td>
 <td data-real-value="57.31">57.31</td>
@@ -16278,7 +16278,7 @@
 <tr>
 <td  data-real-value="1380672000" class="first left bold noWrap">Oct 02, 2013</td>
 <td data-real-value="55.91" class="redFont">55.91</td>
- <td data-real-value="55.81">55.81</td>
+<td data-real-value="55.81">55.81</td>
 <td data-real-value="55.95">55.95</td>
 <td data-real-value="55.55">55.55</td>
 <td data-real-value="369689">369.69K</td> <td class="bold redFont">-0.14%</td>
@@ -16567,7 +16567,7 @@
 <td  data-real-value="1376265600" class="first left bold noWrap">Aug 12, 2013</td>
 <td data-real-value="54.78" class="redFont">54.78</td>
 <td data-real-value="54.65">54.65</td>
- <td data-real-value="54.86">54.86</td>
+<td data-real-value="54.86">54.86</td>
 <td data-real-value="54.57">54.57</td>
 <td data-real-value="303868">303.87K</td> <td class="bold redFont">-0.05%</td>
 </tr>
@@ -16646,7 +16646,7 @@
 <tr>
 <td  data-real-value="1375056000" class="first left bold noWrap">Jul 29, 2013</td>
 <td data-real-value="54.15" class="redFont">54.15</td>
-<td data-real-value="54.27">54.27</td>
+ <td data-real-value="54.27">54.27</td>
 <td data-real-value="54.28">54.28</td>
 <td data-real-value="54.03">54.03</td>
 <td data-real-value="211046">211.05K</td> <td class="bold redFont">-0.53%</td>
@@ -16856,7 +16856,7 @@
 <td data-real-value="51.27" class="redFont">51.27</td>
 <td data-real-value="52.14">52.14</td>
 <td data-real-value="52.15">52.15</td>
- <td data-real-value="51.15">51.15</td>
+<td data-real-value="51.15">51.15</td>
 <td data-real-value="368289">368.29K</td> <td class="bold redFont">-3.04%</td>
 </tr>
 <tr>
@@ -17073,7 +17073,7 @@
 <td data-real-value="54.55">54.55</td>
 <td data-real-value="54.59">54.59</td>
 <td data-real-value="54.35">54.35</td>
- <td data-real-value="386247">386.25K</td> <td class="bold redFont">-0.07%</td>
+<td data-real-value="386247">386.25K</td> <td class="bold redFont">-0.07%</td>
 </tr>
 <tr>
 <td  data-real-value="1368144000" class="first left bold noWrap">May 10, 2013</td>
@@ -17296,7 +17296,7 @@
 <td data-real-value="51.57" class="redFont">51.57</td>
 <td data-real-value="52.26">52.26</td>
 <td data-real-value="52.28">52.28</td>
-<td data-real-value="51.50">51.50</td>
+ <td data-real-value="51.50">51.50</td>
 <td data-real-value="188632">188.63K</td> <td class="bold redFont">-1.09%</td>
 </tr>
 <tr>
@@ -17650,7 +17650,7 @@
 <td data-real-value="51.66">51.66</td>
 <td data-real-value="51.33">51.33</td>
 <td data-real-value="221162">221.16K</td> <td class="bold greenFont">0.55%</td>
- </tr>
+</tr>
 <tr>
 <td  data-real-value="1359331200" class="first left bold noWrap">Jan 28, 2013</td>
 <td data-real-value="51.33" class="redFont">51.33</td>
@@ -17723,7 +17723,7 @@
 <td data-real-value="50.38">50.38</td>
 <td data-real-value="201805">201.81K</td> <td class="bold redFont">-0.10%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1358121600" class="first left bold noWrap">Jan 14, 2013</td>
 <td data-real-value="50.76" class="greenFont">50.76</td>
 <td data-real-value="50.74">50.74</td>
@@ -17801,7 +17801,7 @@
 <td data-real-value="48.78">48.78</td>
 <td data-real-value="49.50">49.50</td>
 <td data-real-value="48.73">48.73</td>
-<td data-real-value="292968">292.97K</td> <td class="bold greenFont">1.31%</td>
+<td data-real-value="292968">292.97K</td>  <td class="bold greenFont">1.31%</td>
 </tr>
 <tr>
 <td  data-real-value="1356652800" class="first left bold noWrap">Dec 28, 2012</td>
@@ -18009,7 +18009,7 @@
 <td data-real-value="47.28">47.28</td>
 <td data-real-value="47.41">47.41</td>
 <td data-real-value="47.22">47.22</td>
-<td data-real-value="86479">86.48K</td> <td class="bold greenFont">0.34%</td>
+ <td data-real-value="86479">86.48K</td> <td class="bold greenFont">0.34%</td>
 </tr>
 <tr>
 <td  data-real-value="1353369600" class="first left bold noWrap">Nov 20, 2012</td>
@@ -18141,7 +18141,7 @@
 </tr>
 <tr>
 <td  data-real-value="1351123200" class="first left bold noWrap">Oct 25, 2012</td>
- <td data-real-value="47.94" class="greenFont">47.94</td>
+<td data-real-value="47.94" class="greenFont">47.94</td>
 <td data-real-value="48.06">48.06</td>
 <td data-real-value="48.21">48.21</td>
 <td data-real-value="47.68">47.68</td>
@@ -18358,7 +18358,7 @@
 <tr>
 <td  data-real-value="1347926400" class="first left bold noWrap">Sep 18, 2012</td>
 <td data-real-value="49.53" class="redFont">49.53</td>
- <td data-real-value="49.57">49.57</td>
+<td data-real-value="49.57">49.57</td>
 <td data-real-value="49.62">49.62</td>
 <td data-real-value="49.41">49.41</td>
 <td data-real-value="100258">100.26K</td> <td class="bold redFont">-0.32%</td>
@@ -18443,7 +18443,7 @@
 <td data-real-value="46.85">46.85</td>
 <td data-real-value="138265">138.27K</td> <td class="bold redFont">-0.11%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1346371200" class="first left bold noWrap">Aug 31, 2012</td>
 <td data-real-value="47.14" class="greenFont">47.14</td>
 <td data-real-value="47.20">47.20</td>
@@ -18575,7 +18575,7 @@
 <td  data-real-value="1344470400" class="first left bold noWrap">Aug 09, 2012</td>
 <td data-real-value="47.16" class="greenFont">47.16</td>
 <td data-real-value="46.97">46.97</td>
- <td data-real-value="47.31">47.31</td>
+<td data-real-value="47.31">47.31</td>
 <td data-real-value="46.97">46.97</td>
 <td data-real-value="54974">54.97K</td> <td class="bold greenFont">0.21%</td>
 </tr>
@@ -18720,7 +18720,7 @@
 <td data-real-value="45.25" class="redFont">45.25</td>
 <td data-real-value="45.18">45.18</td>
 <td data-real-value="45.34">45.34</td>
- <td data-real-value="44.97">44.97</td>
+<td data-real-value="44.97">44.97</td>
 <td data-real-value="56665">56.67K</td> <td class="bold redFont">-0.02%</td>
 </tr>
 <tr>
@@ -18805,7 +18805,7 @@
 </tr>
 <tr>
 <td  data-real-value="1340841600" class="first left bold noWrap">Jun 28, 2012</td>
-<td data-real-value="44.24" class="redFont">44.24</td>
+ <td data-real-value="44.24" class="redFont">44.24</td>
 <td data-real-value="44.04">44.04</td>
 <td data-real-value="44.27">44.27</td>
 <td data-real-value="43.73">43.73</td>
@@ -18865,7 +18865,7 @@
 <td data-real-value="44.98">44.98</td>
 <td data-real-value="45.49">45.49</td>
 <td data-real-value="44.97">44.97</td>
- <td data-real-value="139931">139.93K</td> <td class="bold greenFont">1.43%</td>
+<td data-real-value="139931">139.93K</td> <td class="bold greenFont">1.43%</td>
 </tr>
 <tr>
 <td  data-real-value="1339977600" class="first left bold noWrap">Jun 18, 2012</td>
@@ -19022,7 +19022,7 @@
 <tr>
 <td  data-real-value="1337558400" class="first left bold noWrap">May 21, 2012</td>
 <td data-real-value="44.13" class="greenFont">44.13</td>
-<td data-real-value="43.47">43.47</td>
+ <td data-real-value="43.47">43.47</td>
 <td data-real-value="44.15">44.15</td>
 <td data-real-value="43.47">43.47</td>
 <td data-real-value="144162">144.16K</td> <td class="bold greenFont">1.87%</td>
@@ -19226,7 +19226,7 @@
 <td data-real-value="47.07">47.07</td>
 <td data-real-value="46.60">46.60</td>
 <td data-real-value="64065">64.07K</td> <td class="bold greenFont">0.34%</td>
- </tr>
+</tr>
 <tr>
 <td  data-real-value="1334275200" class="first left bold noWrap">Apr 13, 2012</td>
 <td data-real-value="46.68" class="redFont">46.68</td>
@@ -19299,7 +19299,7 @@
 <td data-real-value="48.12">48.12</td>
 <td data-real-value="272333">272.33K</td> <td class="bold greenFont">1.04%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1333065600" class="first left bold noWrap">Mar 30, 2012</td>
 <td data-real-value="48.27" class="greenFont">48.27</td>
 <td data-real-value="48.39">48.39</td>
@@ -19384,7 +19384,7 @@
 <td data-real-value="48.63" class="greenFont">48.63</td>
 <td data-real-value="48.71">48.71</td>
 <td data-real-value="48.75">48.75</td>
-<td data-real-value="48.60">48.60</td>
+ <td data-real-value="48.60">48.60</td>
 <td data-real-value="95555">95.56K</td> <td class="bold greenFont">0.33%</td>
 </tr>
 <tr>
@@ -19733,7 +19733,7 @@
 </tr>
 <tr>
 <td  data-real-value="1326326400" class="first left bold noWrap">Jan 12, 2012</td>
- <td data-real-value="44.33" class="greenFont">44.33</td>
+<td data-real-value="44.33" class="greenFont">44.33</td>
 <td data-real-value="44.32">44.32</td>
 <td data-real-value="44.39">44.39</td>
 <td data-real-value="44.00">44.00</td>
@@ -19817,7 +19817,7 @@
 <td data-real-value="43.17">43.17</td>
 <td data-real-value="43.19">43.19</td>
 <td data-real-value="42.50">42.50</td>
-<td data-real-value="406851">406.85K</td> <td class="bold redFont">-1.50%</td>
+<td data-real-value="406851">406.85K</td>  <td class="bold redFont">-1.50%</td>
 </tr>
 <tr>
 <td  data-real-value="1324944000" class="first left bold noWrap">Dec 27, 2011</td>
@@ -20022,7 +20022,7 @@
 <tr>
 <td  data-real-value="1321574400" class="first left bold noWrap">Nov 18, 2011</td>
 <td data-real-value="43.31" class="greenFont">43.31</td>
- <td data-real-value="43.68">43.68</td>
+<td data-real-value="43.68">43.68</td>
 <td data-real-value="43.68">43.68</td>
 <td data-real-value="43.11">43.11</td>
 <td data-real-value="50620">50.62K</td> <td class="bold greenFont">0.09%</td>
@@ -20035,7 +20035,7 @@
 <td data-real-value="42.97">42.97</td>
 <td data-real-value="89171">89.17K</td> <td class="bold redFont">-1.64%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1321401600" class="first left bold noWrap">Nov 16, 2011</td>
 <td data-real-value="43.99" class="redFont">43.99</td>
 <td data-real-value="44.26">44.26</td>
@@ -20108,7 +20108,7 @@
 <td data-real-value="121866">121.87K</td> <td class="bold redFont">-0.83%</td>
 </tr>
 <tr>
-<td  data-real-value="1320278400" class="first left bold noWrap">Nov 03, 2011</td>
+ <td  data-real-value="1320278400" class="first left bold noWrap">Nov 03, 2011</td>
 <td data-real-value="45.62" class="greenFont">45.62</td>
 <td data-real-value="45.30">45.30</td>
 <td data-real-value="45.69">45.69</td>
@@ -20384,7 +20384,7 @@
 <td data-real-value="44.20" class="greenFont">44.20</td>
 <td data-real-value="44.20">44.20</td>
 <td data-real-value="44.35">44.35</td>
- <td data-real-value="43.79">43.79</td>
+<td data-real-value="43.79">43.79</td>
 <td data-real-value="533969">533.97K</td> <td class="bold greenFont">0.23%</td>
 </tr>
 <tr>
@@ -20469,7 +20469,7 @@
 </tr>
 <tr>
 <td  data-real-value="1314748800" class="first left bold noWrap">Aug 31, 2011</td>
-<td data-real-value="45.53" class="greenFont">45.53</td>
+ <td data-real-value="45.53" class="greenFont">45.53</td>
 <td data-real-value="45.49">45.49</td>
 <td data-real-value="45.90">45.90</td>
 <td data-real-value="45.33">45.33</td>
@@ -20745,7 +20745,7 @@
 <td data-real-value="49.71">49.71</td>
 <td data-real-value="49.80">49.80</td>
 <td data-real-value="48.99">48.99</td>
-<td data-real-value="59705">59.71K</td>  <td class="bold redFont">-0.75%</td>
+<td data-real-value="59705">59.71K</td> <td class="bold redFont">-0.75%</td>
 </tr>
 <tr>
 <td  data-real-value="1310515200" class="first left bold noWrap">Jul 13, 2011</td>
@@ -20890,7 +20890,7 @@
 <td data-real-value="48.42">48.42</td>
 <td data-real-value="47.91">47.91</td>
 <td data-real-value="50378">50.38K</td> <td class="bold greenFont">0.63%</td>
- </tr>
+</tr>
 <tr>
 <td  data-real-value="1308182400" class="first left bold noWrap">Jun 16, 2011</td>
 <td data-real-value="47.77" class="redFont">47.77</td>
@@ -20919,7 +20919,7 @@
 <td  data-real-value="1307923200" class="first left bold noWrap">Jun 13, 2011</td>
 <td data-real-value="48.43" class="greenFont">48.43</td>
 <td data-real-value="48.59">48.59</td>
-<td data-real-value="48.66">48.66</td>
+ <td data-real-value="48.66">48.66</td>
 <td data-real-value="48.15">48.15</td>
 <td data-real-value="118214">118.21K</td> <td class="bold greenFont">0.21%</td>
 </tr>
@@ -21064,7 +21064,7 @@
 <td data-real-value="49.85" class="greenFont">49.85</td>
 <td data-real-value="49.56">49.56</td>
 <td data-real-value="49.86">49.86</td>
-<td data-real-value="49.30">49.30</td>
+ <td data-real-value="49.30">49.30</td>
 <td data-real-value="63266">63.27K</td> <td class="bold greenFont">0.30%</td>
 </tr>
 <tr>
@@ -21209,7 +21209,7 @@
 <td data-real-value="50.45">50.45</td>
 <td data-real-value="50.74">50.74</td>
 <td data-real-value="50.33">50.33</td>
-<td data-real-value="66494">66.49K</td> <td class="bold greenFont">1.91%</td>
+ <td data-real-value="66494">66.49K</td> <td class="bold greenFont">1.91%</td>
 </tr>
 <tr>
 <td  data-real-value="1303171200" class="first left bold noWrap">Apr 19, 2011</td>
@@ -21353,7 +21353,7 @@
 <td data-real-value="49.20">49.20</td>
 <td data-real-value="49.48">49.48</td>
 <td data-real-value="49.08">49.08</td>
-<td data-real-value="86731">86.73K</td> <td class="bold redFont">-0.18%</td>
+<td data-real-value="86731">86.73K</td>  <td class="bold redFont">-0.18%</td>
 </tr>
 <tr>
 <td  data-real-value="1300924800" class="first left bold noWrap">Mar 24, 2011</td>
@@ -21470,7 +21470,7 @@
 <tr>
 <td  data-real-value="1299196800" class="first left bold noWrap">Mar 04, 2011</td>
 <td data-real-value="49.86" class="redFont">49.86</td>
- <td data-real-value="50.23">50.23</td>
+<td data-real-value="50.23">50.23</td>
 <td data-real-value="50.23">50.23</td>
 <td data-real-value="49.51">49.51</td>
 <td data-real-value="139747">139.75K</td> <td class="bold redFont">-0.76%</td>
@@ -21498,7 +21498,7 @@
 <td data-real-value="50.13">50.13</td>
 <td data-real-value="49.22">49.22</td>
 <td data-real-value="90576">90.58K</td> <td class="bold redFont">-1.34%</td>
-</tr>
+ </tr>
 <tr>
 <td  data-real-value="1298851200" class="first left bold noWrap">Feb 28, 2011</td>
 <td data-real-value="49.89" class="greenFont">49.89</td>
@@ -21615,7 +21615,7 @@
 <td  data-real-value="1297036800" class="first left bold noWrap">Feb 07, 2011</td>
 <td data-real-value="49.55" class="greenFont">49.55</td>
 <td data-real-value="49.42">49.42</td>
- <td data-real-value="49.72">49.72</td>
+<td data-real-value="49.72">49.72</td>
 <td data-real-value="49.41">49.41</td>
 <td data-real-value="76580">76.58K</td> <td class="bold greenFont">0.26%</td>
 </tr>
@@ -21760,7 +21760,7 @@
 <td data-real-value="47.89" class="greenFont">47.89</td>
 <td data-real-value="47.81">47.81</td>
 <td data-real-value="47.94">47.94</td>
- <td data-real-value="47.67">47.67</td>
+<td data-real-value="47.67">47.67</td>
 <td data-real-value="61400">61.40K</td> <td class="bold greenFont">0.88%</td>
 </tr>
 <tr>
@@ -21905,7 +21905,7 @@
 <td data-real-value="47.81">47.81</td>
 <td data-real-value="48.04">48.04</td>
 <td data-real-value="47.54">47.54</td>
- <td data-real-value="119232">119.23K</td> <td class="bold redFont">-0.96%</td>
+<td data-real-value="119232">119.23K</td> <td class="bold redFont">-0.96%</td>
 </tr>
 <tr>
 <td  data-real-value="1292284800" class="first left bold noWrap">Dec 14, 2010</td>
@@ -22049,7 +22049,7 @@
 <td data-real-value="46.84">46.84</td>
 <td data-real-value="47.07">47.07</td>
 <td data-real-value="46.71">46.71</td>
-<td data-real-value="79370">79.37K</td>  <td class="bold greenFont">2.04%</td>
+<td data-real-value="79370">79.37K</td> <td class="bold greenFont">2.04%</td>
 </tr>
 <tr>
 <td  data-real-value="1289952000" class="first left bold noWrap">Nov 17, 2010</td>
@@ -22078,7 +22078,7 @@
 <tr>
 <td  data-real-value="1289520000" class="first left bold noWrap">Nov 12, 2010</td>
 <td data-real-value="46.94" class="redFont">46.94</td>
-<td data-real-value="47.30">47.30</td>
+ <td data-real-value="47.30">47.30</td>
 <td data-real-value="47.44">47.44</td>
 <td data-real-value="46.69">46.69</td>
 <td data-real-value="97578">97.58K</td> <td class="bold redFont">-1.32%</td>
@@ -22194,7 +22194,7 @@
 <td data-real-value="47.03">47.03</td>
 <td data-real-value="46.62">46.62</td>
 <td data-real-value="111186">111.19K</td> <td class="bold greenFont">0.45%</td>
- </tr>
+</tr>
 <tr>
 <td  data-real-value="1287705600" class="first left bold noWrap">Oct 22, 2010</td>
 <td data-real-value="46.48" class="greenFont">46.48</td>
@@ -22223,7 +22223,7 @@
 <td  data-real-value="1287446400" class="first left bold noWrap">Oct 19, 2010</td>
 <td data-real-value="45.68" class="redFont">45.68</td>
 <td data-real-value="45.95">45.95</td>
-<td data-real-value="46.16">46.16</td>
+ <td data-real-value="46.16">46.16</td>
 <td data-real-value="45.47">45.47</td>
 <td data-real-value="179657">179.66K</td> <td class="bold redFont">-2.12%</td>
 </tr>
@@ -22368,7 +22368,7 @@
 <td data-real-value="43.80" class="redFont">43.80</td>
 <td data-real-value="43.77">43.77</td>
 <td data-real-value="44.19">44.19</td>
-<td data-real-value="43.68">43.68</td>
+ <td data-real-value="43.68">43.68</td>
 <td data-real-value="40918">40.92K</td> <td class="bold redFont">-1.04%</td>
 </tr>
 <tr>
@@ -22481,7 +22481,7 @@
 <td data-real-value="41.97">41.97</td>
 <td data-real-value="42.28">42.28</td>
 <td data-real-value="41.97">41.97</td>
-<td data-real-value="29933">29.93K</td> <td class="bold greenFont">0.64%</td>
+ <td data-real-value="29933">29.93K</td> <td class="bold greenFont">0.64%</td>
 </tr>
 <tr>
 <td  data-real-value="1283299200" class="first left bold noWrap">Sep 01, 2010</td>
@@ -22557,7 +22557,7 @@
 </tr>
 <tr>
 <td  data-real-value="1282176000" class="first left bold noWrap">Aug 19, 2010</td>
- <td data-real-value="41.63" class="redFont">41.63</td>
+<td data-real-value="41.63" class="redFont">41.63</td>
 <td data-real-value="42.16">42.16</td>
 <td data-real-value="42.24">42.24</td>
 <td data-real-value="41.40">41.40</td>
@@ -22771,7 +22771,7 @@
 <td data-real-value="41.40">41.40</td>
 <td data-real-value="55673">55.67K</td> <td class="bold greenFont">0.02%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1278979200" class="first left bold noWrap">Jul 13, 2010</td>
 <td data-real-value="41.66" class="greenFont">41.66</td>
 <td data-real-value="41.55">41.55</td>
@@ -22844,7 +22844,7 @@
 <td data-real-value="41113">41.11K</td> <td class="bold redFont">-0.74%</td>
 </tr>
 <tr>
-<td  data-real-value="1277769600" class="first left bold noWrap">Jun 29, 2010</td>
+ <td  data-real-value="1277769600" class="first left bold noWrap">Jun 29, 2010</td>
 <td data-real-value="39.11" class="redFont">39.11</td>
 <td data-real-value="39.78">39.78</td>
 <td data-real-value="39.78">39.78</td>
@@ -23571,7 +23571,7 @@
 <td data-real-value="41.56">41.56</td>
 <td data-real-value="148428">148.43K</td> <td class="bold redFont">-0.24%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1266451200" class="first left bold noWrap">Feb 18, 2010</td>
 <td data-real-value="42.06" class="greenFont">42.06</td>
 <td data-real-value="41.70">41.70</td>
@@ -23857,7 +23857,7 @@
 <td data-real-value="43.56">43.56</td>
 <td data-real-value="43.56">43.56</td>
 <td data-real-value="43.30">43.30</td>
-<td data-real-value="93223">93.22K</td> <td class="bold greenFont">0.23%</td>
+ <td data-real-value="93223">93.22K</td> <td class="bold greenFont">0.23%</td>
 </tr>
 <tr>
 <td  data-real-value="1261612800" class="first left bold noWrap">Dec 24, 2009</td>
@@ -23977,7 +23977,7 @@
 <td data-real-value="44.36">44.36</td>
 <td data-real-value="44.50">44.50</td>
 <td data-real-value="43.59">43.59</td>
- <td data-real-value="84432">84.43K</td> <td class="bold greenFont">0.18%</td>
+<td data-real-value="84432">84.43K</td> <td class="bold greenFont">0.18%</td>
 </tr>
 <tr>
 <td  data-real-value="1259798400" class="first left bold noWrap">Dec 03, 2009</td>
@@ -24121,7 +24121,7 @@
 <td data-real-value="43.03">43.03</td>
 <td data-real-value="43.49">43.49</td>
 <td data-real-value="42.79">42.79</td>
-<td data-real-value="215123">215.12K</td>  <td class="bold greenFont">2.99%</td>
+<td data-real-value="215123">215.12K</td> <td class="bold greenFont">2.99%</td>
 </tr>
 <tr>
 <td  data-real-value="1257465600" class="first left bold noWrap">Nov 06, 2009</td>
@@ -24219,7 +24219,7 @@
 <td data-real-value="42.86">42.86</td>
 <td data-real-value="84836">84.84K</td> <td class="bold greenFont">1.02%</td>
 </tr>
-<tr>
+ <tr>
 <td  data-real-value="1256083200" class="first left bold noWrap">Oct 21, 2009</td>
 <td data-real-value="43.25" class="redFont">43.25</td>
 <td data-real-value="43.44">43.44</td>
@@ -24292,7 +24292,7 @@
 <td data-real-value="57841">57.84K</td> <td class="bold greenFont">0.14%</td>
 </tr>
 <tr>
-<td  data-real-value="1254960000" class="first left bold noWrap">Oct 08, 2009</td>
+ <td  data-real-value="1254960000" class="first left bold noWrap">Oct 08, 2009</td>
 <td data-real-value="42.52" class="greenFont">42.52</td>
 <td data-real-value="42.49">42.49</td>
 <td data-real-value="42.71">42.71</td>
@@ -24339,7 +24339,7 @@
 <td data-real-value="40.78">40.78</td>
 <td data-real-value="92800">92.80K</td> <td class="bold redFont">-2.60%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1254268800" class="first left bold noWrap">Sep 30, 2009</td>
 <td data-real-value="41.96" class="redFont">41.96</td>
 <td data-real-value="42.28">42.28</td>
@@ -24412,7 +24412,7 @@
 <td data-real-value="54659">54.66K</td> <td class="bold greenFont">0.05%</td>
 </tr>
 <tr>
- <td  data-real-value="1253145600" class="first left bold noWrap">Sep 17, 2009</td>
+<td  data-real-value="1253145600" class="first left bold noWrap">Sep 17, 2009</td>
 <td data-real-value="42.44" class="redFont">42.44</td>
 <td data-real-value="42.48">42.48</td>
 <td data-real-value="43.00">43.00</td>
@@ -24870,7 +24870,7 @@
 <tr>
 <td  data-real-value="1245974400" class="first left bold noWrap">Jun 26, 2009</td>
 <td data-real-value="35.57" class="greenFont">35.57</td>
-<td data-real-value="35.65">35.65</td>
+ <td data-real-value="35.65">35.65</td>
 <td data-real-value="36.59">36.59</td>
 <td data-real-value="35.35">35.35</td>
 <td data-real-value="22233">22.23K</td> <td class="bold greenFont">0.06%</td>
@@ -25063,7 +25063,7 @@
 <td  data-real-value="1242950400" class="first left bold noWrap">May 22, 2009</td>
 <td data-real-value="34.70" class="greenFont">34.70</td>
 <td data-real-value="34.60">34.60</td>
- <td data-real-value="34.97">34.97</td>
+<td data-real-value="34.97">34.97</td>
 <td data-real-value="34.49">34.49</td>
 <td data-real-value="64371">64.37K</td> <td class="bold greenFont">0.35%</td>
 </tr>
@@ -25449,7 +25449,7 @@
 <td data-real-value="28.03">28.03</td>
 <td data-real-value="28.50">28.50</td>
 <td data-real-value="27.39">27.39</td>
-<td data-real-value="123826">123.83K</td> <td class="bold redFont">-2.18%</td>
+<td data-real-value="123826">123.83K</td>  <td class="bold redFont">-2.18%</td>
 </tr>
 <tr>
 <td  data-real-value="1236902400" class="first left bold noWrap">Mar 13, 2009</td>
@@ -25594,7 +25594,7 @@
 <td data-real-value="28.40">28.40</td>
 <td data-real-value="27.75">27.75</td>
 <td data-real-value="192412">192.41K</td> <td class="bold redFont">-0.60%</td>
-</tr>
+ </tr>
 <tr>
 <td  data-real-value="1234828800" class="first left bold noWrap">Feb 17, 2009</td>
 <td data-real-value="28.10" class="redFont">28.10</td>
@@ -25668,7 +25668,7 @@
 <td data-real-value="26601">26.60K</td> <td class="bold redFont">-0.70%</td>
 </tr>
 <tr>
-<td  data-real-value="1233619200" class="first left bold noWrap">Feb 03, 2009</td>
+ <td  data-real-value="1233619200" class="first left bold noWrap">Feb 03, 2009</td>
 <td data-real-value="29.93" class="greenFont">29.93</td>
 <td data-real-value="29.91">29.91</td>
 <td data-real-value="30.11">30.11</td>
@@ -25715,7 +25715,7 @@
 <td data-real-value="29.66">29.66</td>
 <td data-real-value="198486">198.49K</td> <td class="bold greenFont">1.92%</td>
 </tr>
- <tr>
+<tr>
 <td  data-real-value="1232928000" class="first left bold noWrap">Jan 26, 2009</td>
 <td data-real-value="29.66" class="greenFont">29.66</td>
 <td data-real-value="29.52">29.52</td>
@@ -25788,7 +25788,7 @@
 <td data-real-value="115849">115.85K</td> <td class="bold redFont">-0.86%</td>
 </tr>
 <tr>
- <td  data-real-value="1231718400" class="first left bold noWrap">Jan 12, 2009</td>
+<td  data-real-value="1231718400" class="first left bold noWrap">Jan 12, 2009</td>
 <td data-real-value="31.37" class="redFont">31.37</td>
 <td data-real-value="32.30">32.30</td>
 <td data-real-value="32.30">32.30</td>
@@ -26029,7 +26029,7 @@
 </tr>
 <tr>
 <td  data-real-value="1227657600" class="first left bold noWrap">Nov 26, 2008</td>
-<td data-real-value="31.25" class="greenFont">31.25</td>
+ <td data-real-value="31.25" class="greenFont">31.25</td>
 <td data-real-value="29.64">29.64</td>
 <td data-real-value="31.46">31.46</td>
 <td data-real-value="29.64">29.64</td>
@@ -26149,7 +26149,7 @@
 </tr>
 <tr>
 <td  data-real-value="1225843200" class="first left bold noWrap">Nov 05, 2008</td>
- <td data-real-value="33.76" class="redFont">33.76</td>
+<td data-real-value="33.76" class="redFont">33.76</td>
 <td data-real-value="35.99">35.99</td>
 <td data-real-value="35.99">35.99</td>
 <td data-real-value="33.75">33.75</td>
@@ -26366,7 +26366,7 @@
 <tr>
 <td  data-real-value="1222646400" class="first left bold noWrap">Sep 29, 2008</td>
 <td data-real-value="42.40" class="redFont">42.40</td>
- <td data-real-value="44.65">44.65</td>
+<td data-real-value="44.65">44.65</td>
 <td data-real-value="44.65">44.65</td>
 <td data-real-value="39.76">39.76</td>
 <td data-real-value="101810">101.81K</td> <td class="bold redFont">-6.34%</td>
@@ -26511,7 +26511,7 @@
 <td  data-real-value="1220400000" class="first left bold noWrap">Sep 03, 2008</td>
 <td data-real-value="46.16" class="greenFont">46.16</td>
 <td data-real-value="46.40">46.40</td>
- <td data-real-value="46.85">46.85</td>
+<td data-real-value="46.85">46.85</td>
 <td data-real-value="46.16">46.16</td>
 <td data-real-value="30636">30.64K</td> <td class="bold greenFont">0.35%</td>
 </tr>
