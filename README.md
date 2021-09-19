@@ -41,7 +41,9 @@ I used pandas' [corr](https://pandas.pydata.org/docs/reference/api/pandas.DataFr
 
 ![correlation matrix](btc-corr.png)
 
-The results show a somewhat higher correlation between Bitcoin and equities compared to the ARK paper (0.44 vs 0.26). But it's still sufficiently small to allow for potential diversification benefits. The Bitcoin/bonds correlation paints a similar story (0.11 vs -0.14).
+The results show a somewhat higher correlation between Bitcoin and equities compared to the ARK paper (0.44 vs 0.26). But it's still sufficiently small to allow for some diversification benefits.
+
+The Bitcoin/bonds correlation takes an insignificant, positive value (0.069). This should bode well for a portfolio that combines the two asset classes.
 
 ### Correlation changes over time
 
@@ -51,7 +53,7 @@ For this analysis, I split the log returns DataFrame by year, then calculated th
 
 ![correlation matrix timeseries](btc-corr-ts.png)
 
-As per the chart, there doesn't seem to be a clear trend in the correlation coefficients so my worries ended up being unfounded.
+As per the chart, there doesn't seem to be a clear trend in the correlation coefficients so my worries were put to rest.
 
 ### Returns backtesting
 
