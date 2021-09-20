@@ -2,3 +2,4 @@ conda-env
 .ipynb_checkpoints
 secrets.json
 __pycache__
+.vscode
