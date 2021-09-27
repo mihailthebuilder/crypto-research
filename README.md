@@ -24,7 +24,7 @@ However, there's a ton of misinformation about cryptos these days so I wanted to
 
 ### Data sourcing
 
-I fetched daily close prices from 16 Aug 2010 to 15 Sep 2021 for Bitcoin and the following three ETF index trackers:
+I fetched daily close prices from 16 Aug 2010 to 15 Sep 2021 for Bitcoin and two ETF index trackers:
 
 - Vanguard Total World Stock ETF (VT) - covers all equity markets globally (developed & emerging)
 - iShares Global Govt Bond UCITS ETF (IGLO) - index tracker for government bonds issued by the G7 countries (Canada, France, Germany, Italy, Japan, UK and US)
