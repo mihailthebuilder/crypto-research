@@ -59,11 +59,24 @@ As per the chart, there doesn't seem to be a clear trend in the correlation coef
 
 The two correlation studies we've done so far confirm that Bitcoin can offer some diversification benefits. Now it's time to do the backtests.
 
+![backtest results](btc-backtest.png)
+
+The 10% Bitcoin / 90% Equities portfolio offers the best returns. This shouldn't be a surprise - the portfolio is inherently the riskiest of them all. But when you consider the risk in relative terms, it's not as high as you'd expect. Compared to the 100% Equities portfolio, the standard deviation of quarterly returns is only 8 percentage points higher and the minimum return you'd get is even slightly lower!
+
+The Bonds portfolio doesn't seem to add much value though. This might be due to the timeframe coinciding with the longest bull market in history.
+
+Some final points to note:
+
+- The 11-year timeframe I cover in the backtest is relatively short; we have data on stock prices going all the way back to the 1950s.
+  
+- Bitcoin has never shown poor performance over the course of a 1-year period. That should eventually change in a competitive financial market.
+
+- Because of Bitcoin's significant day-to-day volatility, the timing of the portfolio rebalancings might have a noteworthy impact on the backtest.
+  
 ### Replicating the research
 
 See the [btc.ipynb](./btc.ipynb) Jupyter notebook.
 
 ## Other topics to cover
 
-- [ ] BTC + funds
-- [ ] index development
+- crypto index
